@@ -49,6 +49,17 @@ The backend is a separate FastAPI project that handles semantic search using FAI
 
 👉 [Book Recommender Backend Repository](https://github.com/imaketech1/book-recommender-llm)
 
+## 📸 Screenshots
+
+### 🏠 Homepage Responsive View
+<img src="./public/screenshots/1-responsive.png" width="500" alt="Home Screenshot" />
+
+### 🔍 Search and Results
+<img src="./public/screenshots/2-searchres.png" width="500" alt="Search Screenshot" />
+
+### 📖 Book Card Popup
+<img src="./public/screenshots/3-popup.png" width="500" alt="PopUp Screenshot" />
+
 
 ## 🚀 Future Plans
 
